@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus Row Highlight',
+    'name': 'Table Row Hover And Selected Highlight',
     'version': '15.0.1.0.1',
     'summary': """ 
             Cybernetics Plus Tools Table Row Hover And Selected Highlight
